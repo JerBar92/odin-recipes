@@ -1,0 +1,22 @@
+* {
+  background-color: rgb(243, 201, 149);
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background: rgb(241, 241, 159);
+  width: 20%;
+  font-size: 3rem;
+}
+
+li {
+  padding: 5px;
+}
+
+figcaption {
+  font-weight: bold;
+}
+
+h2 {
+  color: rgb(93, 93, 241);
+}
