@@ -1,5 +1,5 @@
 * {
-  background-color: rgb(243, 201, 149);
+  background: linear-gradient(to right, rgb(245, 175, 90), rgb(240, 218, 192));
 }
 
 h1 {
@@ -19,4 +19,15 @@ figcaption {
 
 h2 {
   color: rgb(93, 93, 241);
+}
+
+.recipe-link {
+  text-decoration: none;
+  outline-color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  box-shadow: 3px 2px 8px 1px rgba(241, 121, 8, 0.719);
+}
+
+.recipe-link:hover {
+  color: rgb(93, 93, 230);
 }
